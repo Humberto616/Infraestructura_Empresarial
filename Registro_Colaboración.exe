@@ -1,0 +1,82 @@
+┌──(cervill616㉿cervill616)-[~/…/GitHub/Infraestructura_Empresarial/Infraestructura_Empresarial/Infra]
+└─$ git log                 
+commit 86e04c41aba01a22181504de2a5eb64b42a4a70f (HEAD -> HumbertoCervantes, origin/main, origin/JulioRocha, origin/JesusPreciado, origin/HumbertoCervantes, origin/HEAD, origin/AxelAmavizca, main, JesusPreciado, AxelAmavizca)
+Author: JesusPreciado <a19311022@uthermosillo.edu.mx>
+Date:   Sun Apr 3 13:06:19 2022 -0700
+
+    Cambio de Amazon Linux 2 AMI a SUSE Linux Enterprise Server
+
+commit dee961462881edea6e266a8b9c0c21bea918fc4c
+Author: juliorochav <102839738+juliorochav@users.noreply.github.com>
+Date:   Sun Apr 3 14:35:02 2022 -0500
+
+    Cambio a ubuntu  20 .04 a 18.04
+
+commit 2e103d2a05b6994ddaafc71c6a30b52b6f226565
+Author: Humberto616 <a19311008@uthermosillo.edu.mx>
+Date:   Sun Apr 3 03:58:54 2022 +0000
+
+    Update infra_CF.yaml
+
+commit bdf8c16e4c8ff62d956655b922f417484e259bc1
+Merge: 3be1694 7d6d4c0
+Author: Humberto616 <a19311008@uthermosillo.edu.mx>
+Date:   Sun Apr 3 03:57:14 2022 +0000
+
+    Merge branch 'HumbertoCervantes'
+
+commit 7d6d4c0a26eb97209db2f08a0d322e151e661cbf
+Author: Humberto616 <79183827+Humberto616@users.noreply.github.com>
+Date:   Sun Apr 3 03:51:47 2022 +0000
+
+    Delete .infra_CF.yaml.swp
+
+commit 8acfd85e75f95bef0e062ccdc4a8682ae5bcb618
+Author: Humberto616 <a19311008@uthermosillo.edu.mx>
+Date:   Sun Apr 3 03:50:23 2022 +0000
+
+    Código para Amazon Linux 2 AMI
+
+commit 3be16947873c74011880b333ace223ee869320f9
+Merge: b6e0547 b9f19eb
+Author: axeleamavizcag <a19311092@uthermosillo.edu.mx>
+Date:   Sat Apr 2 20:08:32 2022 -0700
+
+    Update infra_CF.yaml
+
+commit b9f19ebfd4222b2f60bff4dcd15635e798d573cc
+Author: axeleamavizcag <a19311092@uthermosillo.edu.mx>
+Date:   Sat Apr 2 20:00:43 2022 -0700
+
+    codigo para ubuntu server 20.04
+
+commit b6e054762a712d8b80b7c85f677e7ab331675732
+Author: Humberto616 <a19311008@uthermosillo.edu.mx>
+Date:   Sun Apr 3 02:36:02 2022 +0000
+
+    Script
+
+commit ba0cfb1e77632e7274a9275fb365f2eb62fb9f32
+Author: Humberto616 <a19311008@uthermosillo.edu.mx>
+Date:   Sun Apr 3 02:02:47 2022 +0000
+
+    .yaml
+
+commit a5559429e628b6385c960cf9ebfd1987f219da51
+Author: Humberto616 <a19311008@uthermosillo.edu.mx>
+Date:   Sun Apr 3 02:01:02 2022 +0000
+
+    File
+
+commit 5e87d99e5f1fda7ea37184ce43fdbc335c371b54
+Author: Humberto616 <79183827+Humberto616@users.noreply.github.com>
+Date:   Sat Apr 2 18:54:16 2022 -0700
+
+    Create Infraestructura_Empresarial
+
+commit 041c6aebd4e1f1d37e623c6ba2ebf81215a78c99
+Author: Humberto616 <79183827+Humberto616@users.noreply.github.com>
+Date:   Sat Apr 2 18:51:57 2022 -0700
+
+    Initial commit
+(END)
